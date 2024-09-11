@@ -1,0 +1,4 @@
+.env
+/audio_files/*
+/text_output/*
+/venv/*

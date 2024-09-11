@@ -4,13 +4,13 @@ from dotenv import load_dotenv
 load_dotenv()
 client = OpenAI()
 
-audio_file= open("audio_files\class2-part2.mp3", "rb")
+audio_file= open("audio_files\class3\part2.mp3", "rb")
 transcription = client.audio.transcriptions.create(
   model="whisper-1", 
   file=audio_file
 )
 
-with open("text_output\class2\part2-transcript.txt", "w", encoding='utf-8') as file:
+with open("text_output\class3\part2-transcript.txt", "w", encoding='utf-8') as file:
     file.write(transcription.text)
 
 response = client.chat.completions.create(
@@ -27,5 +27,5 @@ response = client.chat.completions.create(
   ]
 )
 
-with open("text_output\class2\part2-formatted.txt", "w", encoding='utf-8') as file:
+with open("text_output\class3\part2-formatted.txt", "w", encoding='utf-8') as file:
     file.write(response.choices[0].message.content)

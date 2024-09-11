@@ -10,7 +10,7 @@ transcription = client.audio.transcriptions.create(
   file=audio_file
 )
 
-with open("text_output\class2\part2-transcript", "w", encoding='utf-8') as file:
+with open("text_output\class2\part2-transcript.txt", "w", encoding='utf-8') as file:
     file.write(transcription.text)
 
 response = client.chat.completions.create(
@@ -27,5 +27,5 @@ response = client.chat.completions.create(
   ]
 )
 
-with open("text_output\class2\part2-formatted", "w", encoding='utf-8') as file:
+with open("text_output\class2\part2-formatted.txt", "w", encoding='utf-8') as file:
     file.write(response.choices[0].message.content)

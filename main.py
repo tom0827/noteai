@@ -1,16 +1,24 @@
+import os
 from openai import OpenAI
 from dotenv import load_dotenv
 
 load_dotenv()
 client = OpenAI()
 
-audio_file= open("audio_files\class3\part2.mp3", "rb")
+classNum = 5
+part = 2
+
+audio_file_path = os.path.join("audio_files", f"class{classNum}", f"part{part}.mp3")
+transcript_file_path = os.path.join("text_output", f"class{classNum}", f"part{part}-transcript.txt")
+formatted_file_path = os.path.join("text_output", f"class{classNum}", f"part{part}-formatted.txt")
+
+audio_file= open(audio_file_path, "rb")
 transcription = client.audio.transcriptions.create(
   model="whisper-1", 
   file=audio_file
 )
 
-with open("text_output\class3\part2-transcript.txt", "w", encoding='utf-8') as file:
+with open(transcript_file_path, "w", encoding='utf-8') as file:
     file.write(transcription.text)
 
 response = client.chat.completions.create(
@@ -27,5 +35,5 @@ response = client.chat.completions.create(
   ]
 )
 
-with open("text_output\class3\part2-formatted.txt", "w", encoding='utf-8') as file:
+with open(formatted_file_path, "w", encoding='utf-8') as file:
     file.write(response.choices[0].message.content)

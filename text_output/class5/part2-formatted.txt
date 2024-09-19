@@ -1,0 +1,74 @@
+- **Introduction to Seismic Waves**
+  - Two basic categories of seismic waves:
+    - **Surface Waves**
+      - Travel around the Earth's surface (analogous to ripples in a pond).
+      - Slower than body waves (typically 2-3 km/s).
+    - **Body Waves**
+      - Pass through the Earth's interior.
+      - Faster than surface waves, reaching distant points sooner.
+
+- **Characteristics of Seismic Wave Propagation**
+  - Body waves form a curved path within the Earth.
+  - Material properties change with depth:
+    - Silicate rocks become denser and stiffer with increasing depth.
+  - Seismic wave velocities:
+    - Deep mantle: fastest
+    - Upper mantle: slower
+    - Surface: slowest
+
+- **Types of Body Waves**
+  - **P Waves (Primary Waves)**
+    - Fastest seismic waves, arrive first.
+    - Particles move in the same direction as the wave (compression).
+    - Can travel through liquids (e.g., molten iron outer core).
+  - **S Waves (Secondary Waves)**
+    - Second fastest, arrive second.
+    - Particles move side-to-side, perpendicular to wave direction.
+    - Cannot pass through fluids.
+
+- **Types of Surface Waves**
+  - **Love Waves**
+    - Similar particle motion to S waves (side-to-side).
+    - Particles at the surface move more than those at depth.
+  - **Rayleigh Waves**
+    - Particle motion described as a retrograde ellipse.
+    - Also, particles at the surface move more than those at depth.
+    - Sometimes called ground roll.
+
+- **Seismometers and Seismograms**
+  - Seismometers record ground vibrations caused by seismic waves.
+    - Traditional design: weight/pendulum suspended from a frame.
+  - Seismographs:
+    - Instrument + recording device.
+    - Seismogram: graphical representation of ground displacement over time.
+    - Typically records motions along three X, Y, Z axes.
+
+- **Identifying Seismic Waves on Seismograms**
+  - P Waves: excite vertical component, arrive first.
+  - S Waves: excite radial component, arrive second.
+  - Surface Waves: appear later with larger amplitudes, hence more damaging.
+    - Love waves: transverse component (side-to-side).
+    - Rayleigh waves: excite vertical and radial components.
+
+- **Earthquake Early Warning Systems**
+  - Systems detect and locate earthquakes quickly to alert people before surface waves arrive.
+  - Key to effectiveness: seismic stations surrounding the causative fault.
+  - Few regions have operational early warning systems.
+
+- **Locating Earthquakes Using Seismograms**
+  - P wave travel time (Tp) < S wave travel time (Ts): Ts - Tp increases with distance.
+  - Velocity: distance = time x velocity (for P and S waves).
+  - Calculation example:
+    - Separation time of 90 seconds, Vp = 6.0 km/s, Vs = 3.75 km/s yields a distance of 900 km to earthquake.
+  - Method:
+    - Plot distances on a schematic map as circles.
+    - Intersection of circles locates the earthquake.
+
+- **Global Seismology**
+  - Exploits refraction and reflection of body waves at Earth's major boundaries.
+    - Example: Outer core is liquid as indicated by P wave shadow zone.
+  - Epicentral distance defined by angles between the earthquake, Earth's center, and distance seismometer. 
+
+- **Future Topics**
+  - Discuss magnitude and intensity scales in the next lecture.
+  - Explore basin resonance and detailed impacts of seismic waves during future sessions.

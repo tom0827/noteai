@@ -5,10 +5,10 @@ from dotenv import load_dotenv
 load_dotenv()
 client = OpenAI()
 
-# Convert MP4 --> MP3: https://cloudconvert.com/mp4-to-mp3
+# Convert MP4 --> MP3: https://www.freeconvert.com/mp4-to-mp3
 # Compress MP3: https://www.freeconvert.com/mp3-compressor
 
-classNum = 5
+classNum = 6
 part = 2
 
 audio_file_path = os.path.join("audio_files", f"class{classNum}", f"part{part}.mp3")

@@ -1,0 +1,71 @@
+- **Earthquake Magnitude vs. Intensity:**
+  - Magnitude: physical size of the earthquake.
+  - Intensity: strength of shaking caused by the earthquake.
+
+- **Magnitude Scales Overview:**
+  - First developed by Charles Richter in 1935.
+    - Focused on regional comparisons in Southern California.
+    - Used Wood-Anderson seismograph.
+  - Magnitude determined from largest amplitude on a seismogram, corrected for distance.
+
+- **Richter Scale:**
+  - Example Calculation:
+    - Seismogram shows P-wave and S-wave arrivals, S-P time: 24 seconds → Distance: 220 km, Peak amplitude: 23 mm → Magnitude: 5.0.
+    - Amplitude at 100 km distance: 100 mm (Magnitude 5.0 = 100 mm at 100 km).
+    - Smaller magnitudes (e.g., increment down to 4.0 = 2.3 mm) demonstrate logarithmic nature.
+  - Limitations:
+    - Difficult to apply globally.
+    - Saturates around magnitude 6.
+
+- **Local Magnitude Scales:**
+  - Developed for specific regions (local use only for small earthquakes).
+  - Superseded by moment magnitude scale for larger earthquakes.
+
+- **Moment Magnitude Scale (Mw):**
+  - Introduced in the 1970s.
+  - Based on seismic moment: 
+    - Seismic moment = rupture area × average slip × shear modulus.
+  - Advantages of moment magnitude:
+    - Does not saturate, accurate for large earthquakes.
+    - Easy calculation from modern data sources.
+
+- **Seismic Moment Explained:**
+  - Units in Newton meters (Nm), relates to energy but is a torque measure.
+  - A significant increase in moment reflects a large increase in earthquake energy:
+    - 1 unit increase in moment magnitude = ≈ 31.6 times increase in seismic moment.
+
+- **Earthquake Size Classification:**
+  - Small: Magnitude 2-3
+  - Moderate: Magnitude 4-5
+  - Large: Magnitude 6-7
+  - Great: Magnitude > 8
+
+- **Rupture Area and Slip Relationship:**
+  - Average slip correlates with rupture length.
+    - Magnitude 6 → 10 km rupture, 30 cm slip.
+    - Magnitude 7 → 60 km rupture, 1.5 m slip.
+    
+- **Key Faults and Earthquake Potential:**
+  - Cascadia Subduction Megathrust (capable of magnitude 9) vs. San Andreas Fault (limited to magnitude 8).
+  - The potential size of earthquakes governed by the fault rupture area.
+
+- **Earthquake Statistics (Gutenberg-Richter Law):**
+  - Each unit increase in magnitude → tenfold decrease in frequency.
+  - Global averages:
+    - ~10,000 mag 4 earthquakes/year.
+    - ~1,000-2,000 mag 5 earthquakes/year.
+    - ~100-200 mag 6 earthquakes/year.
+    - ~10-20 mag 7 earthquakes/year.
+    - 1-2 mag 8 earthquakes/year, 1-2 mag 9 in a decade.
+
+- **Foreshocks, Mainshocks, and Aftershocks:**
+  - Mainshock: largest earthquake in a sequence.
+  - Aftershocks: smaller earthquakes following the mainshock.
+  - Foreshocks: precede the mainshock, not always present.
+  
+- **Ridgecrest Sequence Analysis:**
+  - Example: July 3-6, 2019.
+    - Initial sequence with magnitude 3.5 (foreshocks), followed by magnitude 6.4 (mainshock), then magnitude 7.1.
+  - Highlights the unpredictability of foreshocks and aftershocks and challenges in earthquake prediction. 
+
+This structured format can assist in studying the distinctions and factors related to earthquake magnitude and intensity scales.

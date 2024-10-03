@@ -1,0 +1,59 @@
+- **Introduction to Earthquake Risks**
+  - Focus on earthquake risks and risk reduction
+  - Risk = Hazard × Vulnerability
+  - Importance of reducing vulnerability
+
+- **Pillars of Emergency Management**
+  - **Mitigation:** Preventing future hazards or reducing effects
+  - **Preparedness:** Preparing to handle emergencies before they occur
+  - **Response:** Safe reaction to emergencies
+  - **Recovery:** Return to normal after emergencies
+
+- **Global Trends in Earthquake Risks**
+  - Increased fatalities in large earthquakes over the last centuries
+  - Explanations for increased fatalities:
+    - No evidence for increased earthquake frequency
+    - Increased population and urbanization
+
+- **Population and Earthquake Risk**
+  - Graph showing global population growth and cumulative earthquake fatalities
+  - Rise in the number of large cities and megacities
+  - Hazardous regions: Alpine-Himalayan belt, high population density areas (China, India)
+
+- **Seismic Hazard Factors**
+  - Geographic areas prone to large earthquakes
+  - Notable countries at risk: Iran, Turkey, China, India
+  - Vulnerability × Hazard = Risk framework visualized through maps
+
+- **Mitigation Strategies**
+  - Primary focus on building design to withstand earthquakes
+ 
+- **Building Material Considerations**
+  - **Masonry buildings:** Rigid, brittle, susceptible to collapse
+    - Example: Adobe structures in Bam, Iran (90% destruction in 2003 earthquake)
+  - **Wood:** Flexible, lightweight, better performance in earthquakes
+    - Example: Wood frame houses survived the 1906 San Francisco earthquake
+  - **Steel:** Strong and flexible but expensive, used in large buildings
+
+- **Building Design Factors**
+  - Importance of proper anchoring to strong foundations
+  - Risks of sliding off foundations
+  - **Soft First Story Collapse:**
+    - Multi-story buildings with large openings (e.g. garages) prone to collapse
+    - Illustrations of soft story failures in various earthquakes
+
+- **Engineering Solutions for Older Buildings**
+  - Retrofitting older buildings to meet codes for seismic safety
+  - Historical masonry buildings requiring expensive retrofits
+  - Mandatory soft story retrofits in some regions (e.g., California)
+   
+- **Natural Resonance of Buildings**
+  - Relation between building height and resonance frequency
+  - Buildings sway at frequencies related to their height
+  - Effects of seismic waves on buildings:
+    - Example: Mexico City earthquakes (1985 vs. 2017)
+  
+- **Strategies to Mitigate Resonance Effects**
+  - Use of shock absorbers to dampen vibrations
+  - Base isolation techniques to protect buildings
+    - Example: The Cube building in Vancouver with base isolation design

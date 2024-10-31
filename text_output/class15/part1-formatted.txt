@@ -1,0 +1,84 @@
+### Lecture Overview
+- Three notable landslide case studies
+  - Global landslide risks
+  - Landslide mitigation
+- Case studies from the Pacific coast of North America
+  - 2014 Oso landslide in Washington state
+  - 2018 Montecito mudslides in California
+
+### 2014 Oso Landslide
+- **Location**: Oso, Washington, in the Cascadia volcanic arc
+  - Small community along North Fork of the Stiligwamish River
+  - Steep hillsides overlooking the valley
+
+- **Event Details**:
+  - Occurred on March 22, 2014, at mid-morning
+  - Caused by collapse of 200m high hill slope (Whitman Bench)
+  - Previous moderate-sized rockslide in 2006 on the same slope
+  - Destroyed 35 residences in Steelhead Haven across the river
+  - Size categorized as a composite landslide: 
+    - Upper part: rotational rockslide
+    - Lower part: debris slide (not a debris flow)
+
+- **Casualties**:
+  - 58 people in inundation zone
+  - 15 survived, 43 fatalities
+  - Deadliest landslide in continental U.S. history
+
+- **Economic Impact**:
+  - Estimated losses of $120 million
+
+- **Survivor Accounts**:
+  - Extraordinary noise compared to a plane crash
+  - Rapid inundation by fast-moving debris
+  - Soft, quicksand-like conditions post-landing
+
+- **Preconditions and Triggers**:
+  - Preconditions:
+    - Previous landslide in 2006 may have destabilized the slope
+    - Meander of Stiligwamish River eroding the toe of the 2006 landslide
+
+  - Triggers:
+    - Intense rainfall in the month preceding (double normal levels)
+    - Water-saturated rocks lost support, leading to collapse 
+
+- **Geology and Hydrology**:
+  - Whitman Bench consisted of horizontally bedded sedimentary rocks
+  - Mix of clay-rich glacial till and permeable sands/gravel
+  - Groundwater seeps indicate wet condition leading to instability
+
+- **Seismological Evidence**:
+  - Landslide recorded by seismic stations, indicating two phases
+  - First phase: fluidized debris slide
+  - Second phase: rotational rockslide
+
+### Lessons Learned from Oso Landslide
+- Historical landslide forms imply risks in the area
+- Questions raised regarding residential zoning and logging impacts
+
+### 2018 Montecito Mudflows
+- **Location**: Montecito, Southern California, near Santa Barbara
+- **Demographics**: Wealthy area with many celebrity residents
+
+- **Event Details**:
+  - Occurred on January 9, 2018, following severe wildfires
+  - Killed 23 people; 160 hospitalized
+  - Costs exceeding $200 million
+
+- **Fires and Weather Conditions**:
+  - 2017 California wildfire season: worst on record (1.5 million acres burned)
+  - Heavy rain (four inches over two days) shortly after fires 
+  - Flash flooding and mudflows due to lack of vegetation
+
+- **Evacuations and Impact**:
+  - Evacuations ordered in early January 2018
+  - Evacuation fatigue led many to ignore warnings
+  - Mudflows formed rapidly, inundating neighborhoods
+
+- **Consequences**:
+  - Houses destroyed and buried in mud
+  - Significant debris and large boulders swept into streets
+  - Highway 101 flooded and closed, requiring 12 days to clear
+
+### Summary
+- Both case studies highlight the interplay of geological, hydrological, and human factors in landslides. Emphasis on understanding prior land use, weather conditions, and community preparedness are vital for future hazard mitigation.

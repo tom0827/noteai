@@ -1,0 +1,59 @@
+### Mount Meagher Landslide Case Study (2010)
+
+#### Location and Geological Context
+- **Mount Meagher**: 150 km north of Vancouver, 240 km north of Victoria
+- **Geological Formation**: Stratovolcano in the Garibaldi Volcanic Belt, part of the Cascade Volcanic Arc.
+- **Eruption History**: 
+  - Erupted approximately 2,400 years ago (vulcanian-style).
+  - Erosion by glaciers has stripped volcanic rocks and obscured eruption history.
+
+#### Landslide Details
+- **Date and Time**: August 6, 2010, at 3:27 AM.
+- **Initial Events**: Series of major rockfalls on the southeastern slope.
+- **Volume of Rock Involved**: Estimated at 50 million cubic meters (third largest in Canadian history).
+- **Impact Zone**: Rockfall fell about 500 meters onto Capricorn Creek, leading to a fluidized debris flow.
+- **Travel Distance**: Landslide material traveled 13 km horizontally, 2 km vertically.
+
+#### Effects and Observations
+- **Speed**: Average speed of rock avalanche – 70 m/s; slowed to 20 m/s in Meagher Creek.
+- **Seismic Signature**: Landslide detected by seismometers, comparable in amplitude to a magnitude 3 earthquake.
+- **Eyewitness Accounts**: Four campers heard sounds and escaped just before being inundated by mud.
+
+#### Historical Context
+- **Landslide Record**: Prior examples indicate larger debris flows sourced from Mount Meagher have occurred in the past 12,000 years.
+- **Potential Debris Flow Volume**:
+  - 100 million cubic meters needed to impact Pemberton.
+  - Estimated 1 billion cubic meters for significant town reach.
+
+### Landslide Risks and Mitigation
+
+#### Global Landslide Statistics
+- **Fatalities from 2004-2010**: Approximately 32,000 deaths due to landslides.
+- **Comparison to Earthquakes**: Landslides generally result in numerous smaller fatalities versus large earthquakes.
+
+#### Canadian Context
+- **Higher Risk in Western Canada**: 
+  - Steep topography and glacier influence increase landslide hazards.
+  - Population distribution exacerbates vulnerability.
+
+### Mitigation Strategies
+- **Residential Zoning**: Use of landslide hazard maps for development restrictions.
+- **Hazard Removal Techniques**: 
+  - Scalping and benching to mitigate risks on small slopes.
+  - Support techniques for rotational rock slides via unloading or reinforcing.
+
+#### Water Management
+- **Drainage**: Properly draining hill slopes can significantly reduce landslide risks.
+
+#### Emergency Preparedness
+- **Early Warning Systems**: Insufficient systems noted; need for established protocols (e.g., geophones).
+- **Monitoring Technologies**: 
+  - INSAR technology for identifying slope instability.
+  - Application of real-time monitoring instruments.
+
+### Additional Notes
+- **Coastal Erosion Concerns**: 
+  - Beaches as natural defense but require stabilization against wave action.
+- **Debris Flow in Switzerland**: Example of effective warning systems in place. 
+
+This concludes the summary of the Mount Meagher landslide case study and the discussion on landslide risks and mitigation strategies.

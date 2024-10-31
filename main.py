@@ -8,7 +8,7 @@ client = OpenAI()
 # Convert MP4 --> MP3: https://www.freeconvert.com/mp4-to-mp3
 # Compress MP3: https://www.freeconvert.com/mp3-compressor
 
-classNum = 12
+classNum = 15
 part = 2
 
 audio_file_path = os.path.join("audio_files", f"class{classNum}", f"part{part}.mp3")

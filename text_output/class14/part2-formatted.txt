@@ -1,0 +1,82 @@
+- **Categories of Landslides**
+  - **Material Types**
+    - Rock
+    - Mud
+    - Debris (mixture of rock, soil, vegetation)
+    - Earth and Soil
+
+  - **Types of Movement**
+    - **Falls**: Material falling through the air
+    - **Slides**: Material sliding downhill
+    - **Flows**: Mass of solid particles behaving like a fluid
+
+- **Basic Types of Landslides**
+  - Debris flows
+  - Mud flows
+  - Rock slides
+  - Debris slides
+  - Mud slides
+  - Rock falls
+  - Debris falls
+
+- **Further Classifications**
+  - **Speed of Movement**
+    - Creep: imperceptible movement
+    - Rock falls: several meters per second
+    - Variable speeds (debris slides, mud flows)
+
+  - **Water Content**
+    - Water-saturated or dry
+
+- **Specific Landslide Types**
+  - **Rock Falls**
+    - Free fall from cliffs, common in coastal areas
+    - Example: Pictured Rocks National Lakeshore rock fall (2019)
+
+  - **Rock Slides**
+    - Slides along a basal failure surface
+    - Typically have:
+      - Headscarp
+      - Back-tilted blocks
+      - Toe-scarp at the bottom
+    - Example: Major landslide in Peru
+
+  - **Translational Rock Slides**
+    - Planar failure surface, faster and further travel
+    - Example: Alta, Norway (2020)
+
+  - **Debris Slides**
+    - Fragments mix with soil and vegetation
+    - Example: Triggered by the 2018 Tomokomai earthquake in Japan
+
+- **Flows**
+  - **Types of Flows**
+    - Earth flows: made of soil
+    - Debris flows: fragmented rock, soil, vegetation
+    - Mud flows: wet mud
+    - Lahars: wet volcanic ash
+  - **Characteristics**
+    - Behave as viscous fluids
+    - Can travel great distances
+    - Example: Debris flows at Kedarnath (2013)
+
+- **Soil Creep**
+  - Slow, common landslide type
+  - Caused by cyclic expansion and contraction of soil particles
+
+- **Composite Landslides**
+  - Transition between types (e.g., from rotational rock slide to debris slide to debris flow)
+  - Example: New Zealand landslide (2017) triggered by Tropical Cyclone Debbie
+
+- **Rock Avalanches**
+  - Composite landslides from rock falls that disintegrate into debris slides
+  - Example: Rock avalanche at Pis Sengalo (Swiss Alps, 2016)
+
+- **Sterstroms**
+  - Type of rock avalanche with long horizontal distance relative to vertical drop 
+  - Example: Black Hawk slide in California
+  - Theories explaining long runouts:
+    - Acoustic fluidization
+    - Pressurized air pockets
+
+This overview encapsulates the key concepts related to landslide types and characteristics discussed in the lecture.

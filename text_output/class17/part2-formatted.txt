@@ -1,0 +1,60 @@
+- **Introduction to Water Wave Hazards**
+  - Distinct category: Satias (natural standing waves).
+  - Mitigation and preparation measures for tsunami risks, including survival steps.
+
+- **Understanding Standing Waves**
+  - Definition: Waves that oscillate in time, with peak amplitude profiles that do not move in space.
+  - Nodes: Points where wave amplitude is zero.
+  - Antinodes: Locations of peaks and troughs.
+  - Example: Standing wave with five nodes and four antinodes, and another with one node and two antinodes.
+
+- **Seiches**
+  - Definition: Standing waves in enclosed or partially enclosed bodies of water (bays, fjords, lakes, pools).
+  - Origin of term: Swiss French word for "swaying back and forth."
+  - Formation: Caused by tilting of the basin (e.g., due to earthquake slip).
+  
+- **Examples of Seiches**
+  - Videos from Kathmandu (April 2015 Gorkha earthquake).
+  - Small seiche in Norwegian fjord caused by the 2011 Tohoku earthquake (8,000 km away).
+  - Meteo tsunamis: Triggered by wind, common in Great Lakes, especially Lake Erie.
+
+- **Meteo Tsunamis in the Great Lakes**
+  - Characteristics: Wind pushes water, leading to sloshing when wind dissipates.
+  - Timeline of Lake Erie water levels during a 2003 seiche.
+    - Toledo, Cleveland, Buffalo noted for water level differences (up to 13 feet).
+  - Historical fatalities from meteo tsunamis (Lake Michigan: 1929, 1938, 1954).
+
+- **Tsunami Prevention and Structural Measures**
+  - Use of seawalls: Effective in delaying inundation; Japan rebuilding to higher specifications post-2011.
+  - Other measures: Offshore breakwaters, underwater berms, angled walls, and ditches.
+
+- **Warning Systems**
+  - Japan's J-Alert: Sophisticated earthquake and tsunami early warning system.
+  - DART system: Deep Ocean Assessment and Reporting of Tsunamis.
+    - Components: Ocean bottom pressure sensors, buoys, and control centers (NOAA in Alaska and Hawaii).
+  - Preliminary tsunami watch and warnings based on seismological data.
+
+- **Case Study: 2011 Tohoku Earthquake**
+  - DART recording example illustrating tsunami waves and pressure.
+  - Successful alert minimized casualties outside Japan.
+  - Neptune Cable Observatory: Pressure sensors and WERA radar for real-time monitoring.
+
+- **Tsunami Hazard Mapping**
+  - Importance of hazard maps to predict shoaling wave heights.
+  - Example maps for Vancouver Island and Tofino with evacuation routes.
+
+- **Evacuation Challenges**
+  - Example of Padang, Sumatra: Historical tsunamis and challenges of evacuating large cities.
+  - Proposed raised-earth parks and retrofitting buildings as evacuation measures.
+
+- **Advice for Tsunami Situations**
+  - If on a boat during an earthquake, go out to sea rather than to shore.
+  - Key actions when at the coast:
+    - Immediately move to higher ground.
+    - Be aware of multiple wave crests.
+  - Historical examples: Hilo, Hawaii (1960 tsunami) and Crescent City, California (1964 tsunami).
+
+- **Footage and Real-life Examples**
+  - Earthquake in Samos (October 30, 2020) and related tsunami.
+  - Importance of immediate evacuation upon feeling shaking.
+  - Witnessing landslides near water: Immediate evacuation recommended (e.g., glacier carving in Iceland).

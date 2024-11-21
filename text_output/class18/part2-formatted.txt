@@ -1,0 +1,71 @@
+### Overview of Tsunamis and Seiches Triggered by Landslides
+
+- **Case Studies**
+  - **1958 Lituya Bay Tsunami (Alaska)**
+  - **2017 Nugatsiak Tsunami (Greenland)**
+  - **1929 Grand Bank Tsunami (Atlantic Canada)**
+  - **1959 Hegman Lake Seiche (Montana)**
+  
+- **Relevance to British Columbia**
+  - Lituya Bay and Nugatsiak tsunamis occurred in fjords similar to BC's coastline.
+  - Grand Bank tsunami involved steep continental slopes like those offshore Vancouver Island.
+  - Hegman Lake seiche occurred in a lake similar to many in BC.
+
+- **Earthquake Activity**
+  - Three case studies were triggered by earthquakes.
+  - BC is Canada's most seismically active province.
+  - Some events may have been exacerbated by anthropogenic climate change.
+
+### Detailed Case Studies
+
+#### 1958 Lituya Bay Tsunami
+- **Location**: Southeastern Alaska, Pacific North America plate boundary.
+- **Earthquake**: Magnitude 7.8 on July 9, 1958, at the Fairweather Fault.
+- **Landslide**: 
+  - Triggered by the earthquake, a 40 million m³ slab of rock fell from 900m into the bay.
+  - Possible precondition due to retreat of Lituya Glacier.
+- **Tsunami Wave Characteristics**:
+  - Maximum run-up height: 524m, largest mega-tsunami recorded.
+  - Scientists proposed wave height attributed to an air cavity created by the landslide's speed.
+  - The wave reached the bay entrance in about 5 minutes at ~150 km/h.
+
+- **Boat Accounts**:
+  - **Edry**: Survived by riding over the wave.
+  - **Badger**: Was carried over and sank but crew escaped.
+  - **Sunmoor**: Engulfed by wave; crew lost.
+
+- **Recurring Hazard in Lituya Bay**:
+  - Previous evidence of large waves documented; frequency increasing due to glacier retreat.
+
+#### 2017 Nugatsiak Tsunami
+- **Location**: Nugatsiak, Greenland.
+- **Event**: Tsunami on June 17, 2017, after a Magnitude 4.2 earthquake.
+- **Tsunami Source**:
+  - Sequence of events began with a landslide, estimated at 55 million m³.
+  - Landslide scar visible, and tsunami wave reached 10 meters, inundating 150 meters onto land.
+  
+- **Impact**: 
+  - 11 houses swept into the sea; four fatalities from a small population (84).
+
+#### 1929 Grand Bank Tsunami
+- **Location**: Grand Banks, off Newfoundland.
+- **Earthquake**: Magnitude 7.2 on November 18, 1929, generating turbidity currents.
+- **Effects**: 
+  - Severed transatlantic telegraph cables due to underwater landslides.
+  - Tsunami arrived 2.5 hours later, inundating coastal areas and killing 28 people.
+  - Wave heights of 4 to 30 meters reported.
+
+### 1959 Hegman Lake Seiche
+- **Location**: Hegman Lake, Montana, near Yellowstone National Park.
+- **Earthquake**: Magnitude 7.5 on August 17, 1959.
+- **Effects**:
+  - Triggered a seiche causing significant flooding.
+  - A collapsed mountainside created Earthquake Lake, trapping campers and resulting in 28 fatalities.
+
+### Conclusion
+- **Relevance to BC**:
+  - BC's geography includes steep lakes and reservoirs vulnerable to landslides and tsunamis.
+  - Risk management and mitigation of landslides in BC, especially concerning dams, is a priority for geotechnical engineers. 
+
+- **Historical Context**: 
+  - Past events highlight the ongoing hazard posed by landslide-induced tsunamis and seiches, impacting unprepared communities.

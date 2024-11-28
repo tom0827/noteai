@@ -1,0 +1,83 @@
+- **Overview of Lecture**
+  - Focus on two significant weather hazards: tropical cyclones and tornadoes.
+  - Main focus: extreme wind speeds.
+  - Discussion on flooding hazards from tropical cyclones and storm surges.
+
+- **Atmospheric Circulation Patterns**
+  - Earth's heat distribution is uneven; equator receives more heat than poles.
+  - Basic driver of global atmospheric circulation:
+    - Winds redistribute heat from equator to poles.
+  - Three different wind cells in each hemisphere:
+    - Tropical Hadley cells
+    - Mid-latitude Ferrel cells
+    - Polar cells
+    
+- **Geographic Context of Wind Cells**
+  - Low latitudes: 0° to 30° N/S
+  - Mid-latitudes: 30° to 60° N/S
+  - High latitudes: 60° to poles
+  - Low pressure areas → air rises → precipitation (e.g., rainforests)
+  - High pressure areas → air descends → dry regions (e.g., deserts)
+
+- **Coriolis Effect**
+  - Earth’s rotation causes winds to deflect:
+    - Right in the Northern Hemisphere
+    - Left in the Southern Hemisphere
+  - Impacts wind patterns in low and high pressure systems.
+  - Trade winds:
+    - Northeast (NH) and Southeast (SH) due to Hadley cells.
+
+- **Tropical Cyclones**
+  - Defined as storms with sustained winds >120 km/h.
+  - Hazards:
+    - High wind speeds (up to 240 km/h).
+    - Storm surges (sea level rise up to 6 metres).
+    - Heavy rainfall and flooding.
+  - Deadliest cyclone: 1970 Cyclone Bola (over 300,000 deaths in Bangladesh).
+
+- **Formation of Tropical Cyclones**
+  - Geographical subdivisions:
+    - Hurricanes: Atlantic/Eastern Pacific.
+    - Typhoons: Northwestern Pacific.
+    - Cyclones: Southwestern Pacific/Indian Ocean.
+  - Formation conditions:
+    - Sea temperature ≥ 27°C (depths of 50m).
+    - Unstable air (thunderstorms).
+    - Weak vertical wind shear.
+
+- **Stages of Tropical Cyclone Formation**
+  1. **Heating**: Ocean surface warms to at least 27°C.
+  2. **Evaporation**: Warm, humid air rises; water vapor condenses to form clouds.
+  3. **Spin Development**: Earth's rotation causes the cyclone to spin.
+  4. **Eye Formation**: Eye and eyewall develop; eye is calm, eyewall has strongest winds.
+
+- **Naming and Categorization**
+  - Early stages: 
+    - Tropical disturbances (winds <40 km/h).
+    - Tropical depression (winds 40-60 km/h).
+    - Tropical storm (winds 60-120 km/h, given names).
+    - Tropical cyclone (winds >120 km/h, categorized 1-5).
+  - Saffir-Simpson scale:
+    - Category 1: Minor damage.
+    - Category 2: Moderate damage.
+    - Category 3: Extensive structural damage.
+    - Category 4: Heavy damage, significant storm surge.
+    - Category 5: Catastrophic damage.
+
+- **Hurricane Lifecycle**
+  - North Atlantic hurricane season: June to November, peaks August-October.
+  - Movement and decline:
+    - Starts as a disturbance, moves westward, then north and east.
+    - Declines after landfall or moving over cool waters.
+    - Can gain strength as extra-tropical cyclones in mid-latitudes.
+
+- **Impact on Regions**
+  - Historical paths influenced by atmospheric high-pressure zones (e.g., Bermuda-Azores High).
+  - Cases of western Canada affected by eastern Pacific hurricanes or typhoons.
+  - Typhoon Frida (1962) was a significant event in Canada.
+
+- **Energy of Storms**
+  - Expressed in terajoules; calculated based on wind speed and size.
+  - Evidence of increasing hurricane activity linked to global warming.
+    - Hurricanes are longer-lasting.
+    - More frequent hurricanes (e.g., 2020 Atlantic hurricane season).

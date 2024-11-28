@@ -1,0 +1,62 @@
+### Canadian Case Studies on Flooding
+
+#### Overview of Flood Prone Areas 
+- Approximately 10% of Canadians live in flood prone areas.
+- Significant metropolitan areas affected: 
+  - Toronto
+  - Vancouver
+  - Calgary
+  - Montreal
+  - Edmonton
+- Most flood prone city: Winnipeg, Manitoba.
+
+#### Flooding Events in Winnipeg
+- Major flooding events:
+  - **1950**: Historical flooding; significant damage and evacuations.
+  - **1993**: Featured in costliest Canadian natural disasters.
+  - **1997**: Severe flooding; significant impact on the city.
+
+- **1950 Flood Details**:
+  - Lasted from mid-April to mid-June.
+  - Approximately 1,600 km² of agricultural land inundated.
+  - Dikes around Winnipeg breached; leading to significant urban flooding.
+  - 100,000 people evacuated (one-third of Winnipeg's population).
+  - Over 10,000 buildings flooded; losses exceeded $1 billion in today’s money.
+  - Resulted in the construction of the Red River floodway in the 1960s.
+
+- **Red River Floodway**:
+  - Purpose: Divert floodwater around Winnipeg.
+  - Capacity: Diverted up to 1,700 m³/s of water.
+  - Cost: $63 million at the time (about $500 million today).
+  - Recognized as a national historic civil engineering site.
+
+- **1997 Flood Response**:
+  - Severe flooding due to snowpack and rapid thaw.
+  - Floodway capacity doubled in the early 2000s at an additional cost of $600 million.
+
+#### Recent Fraser River Flooding
+- **Fraser River Overview**:
+  - Largest river on Canada’s west coast, drains significant surface area of BC.
+  - Major floods recorded in spring (1894, 1948).
+
+- **November 2021 Flooding Event**:
+  - Caused by an intense atmospheric river; record-breaking rainfall in several areas.
+  - Virgin ground already saturated from previous conditions; exacerbated by recent wildfires.
+  - Significant infrastructure damage:
+    - City of Merritt evacuated; wastewater treatment plant flooded.
+    - Highways (Highway 1, Highway 5, Highway 8) damaged or destroyed in multiple locations.
+    - Railways (CP and CN) were temporarily closed, impacting supply chains.
+
+- **Impacts on Agriculture**:
+  - Sumas Prairie, a key agricultural area, severely flooded.
+  - Emergency evacuations led to abandonment of livestock and damages to farms.
+
+#### Long-term Climate Impact
+- Anthropogenic climate change is increasing flooding severity and frequency.
+  - Studies predict:
+    - Up to 40% more frequent major precipitation days by mid-century.
+    - Atmospheric rivers to become 25% wider and longer, carrying 50% more moisture.
+- Need for better protective infrastructures and alert systems.
+
+### Conclusion
+- Upcoming lecture: examination of another natural hazard worsened by climate change, wildfires.

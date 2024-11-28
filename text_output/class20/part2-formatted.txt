@@ -1,0 +1,57 @@
+### Storm Surges and Coastal Flooding
+- **Definition**: An abrupt rise in sea level caused by the landward approach of a cyclone.
+- **Causes of Storm Surges**:
+  - **Main Cause**: Strong onshore wind (wind-driven surge).
+  - **Secondary Cause**: Low atmospheric pressure beneath the cyclone's eye (pressure-driven surge).
+
+- **Timing and Danger**:
+  - Storm surges often arrive just before the cyclone makes landfall.
+  - Most dangerous when coinciding with high tide.
+  
+- **Characteristics**:
+  - Strongest tropical cyclones (Category 4 to 5) can have storm surges exceeding 5 meters.
+  - In the Northern Hemisphere, maximum storm surges occur 15 to 30 kilometers to the right of the eye landfall point.
+
+- **Hurricane Katrina (2005)**:
+  - Category 3 storm impacting New Orleans.
+  - Evacuation order issued too late; sea levels had already risen.
+  - Levee failures led to catastrophic flooding, trapping thousands.
+  - Estimated storm surge of 20 to 30 feet high; primary cause of death.
+
+- **Future Considerations**:
+  - Storm surge increased risks due to global warming and rising sea levels.
+  - Global average sea level has risen about 20 centimeters since 1880.
+  - Future predictions suggest a potential rise of 0.3 to 1.2 meters by the century’s end.
+
+### Tornadoes
+- **Definition**: Rapidly rotating columns of air in contact with Earth's surface and thunderstorm.
+- **Characteristics**:
+  - Can reach wind speeds of up to 500 km/h.
+  - Cause substantial damage but are highly localized.
+
+- **Formation**:
+  - Requires strong updrafts, cumulonimbus clouds, and significant wind shear.
+  - Contrast between warm, moist air and cold, dry air leads to atmospheric instability.
+
+- **Tornado Examples**:
+  - **2011 Super Outbreak**: 360 tornadoes over four days; severe destruction in Alabama, Mississippi, and Tennessee.
+  - **Tri-State Tornado (1925)**: Killed 695 people, longest duration and extensive path across three states.
+
+- **Tornado Alley**:
+  - Area in the Midwest (from Texas to Minnesota) with the highest occurrence of tornadoes.
+  - Responsible for 50-75% of the world’s tornadoes annually.
+
+- **Enhanced Fujita Scale**: Rates tornadoes from EF0 to EF5 based on wind speed and damage.
+  - **EF0**: 65-85 mph; minor damage.
+  - **EF1**: 86-110 mph; moderate damage.
+  - **EF2**: 111-135 mph; considerable damage.
+  - **EF3**: 136-165 mph; severe destruction.
+  - **EF4**: 166-200 mph; devastating damage.
+  - **EF5**: >200 mph; incredible damage, including movement of heavy objects.
+
+### Impact Factors
+- Tornadoes generally occur in spring due to unique geographic conditions in North America.
+- Canada records about 100 tornadoes annually, mostly in southern provinces; fewer fatalities due to lower population density and stronger housing.
+
+### Conclusion
+- Both storm surges and tornadoes pose significant natural hazards, with complex interactions influenced by weather patterns, geography, and climate change impacts. Future discussions will address flooding hazards.

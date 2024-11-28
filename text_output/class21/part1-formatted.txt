@@ -1,0 +1,70 @@
+- **Lecture Focus**: Flooding Hazards
+  - Definition: Flooding is the overflow or accumulation of water that submerges normally dry land.
+  - Causes:
+    - Water escaping from rivers, lakes, oceans
+    - Accumulation of rainwater or meltwater on impermeable ground
+  - Previous Coverage: Coastal flooding from storm surges and tsunamis
+  - Today's Focus: Inland flooding hazards
+
+- **Global Flooding Hazards**:
+  - Affects more people than any other natural hazard
+  - One third of Earth's land surface at risk
+  - 2000-2018: 2.23 million km² land inundated, affecting nearly 300 million people
+  - Increasing flood risks due to:
+    - Climate change (increased frequency/severity of floods)
+    - Growth in flood-prone populations and economic activities
+
+- **Types of Flooding**:
+  - Two broad classes:
+    - **Hydro-meteorological Floods**: Related to weather
+    - **Outburst Floods**: Caused by catastrophic failure of natural dams
+
+- **Deadly Nature of Flooding**:
+  - Accounts for many deadliest natural disasters (e.g., 1931 Yangtze River floods)
+  - Long-lasting impacts on infrastructure, water supplies, agriculture
+
+- **Hydrometeorological Floods**:
+  - Focus on two types:
+    - **Pluvial Floods**: Caused by heavy rainfall independent of overflowing water bodies (localized, common in urban areas)
+    - **Fluvial Floods**: Result when rivers burst their banks
+  - Key Processes:
+    - **Infiltration**: Water entering soil to become groundwater
+    - **Runoff/Overland Flow**: Occurs when precipitation exceeds infiltration capacity
+
+- **Floodplain Dynamics**:
+  - Floodplains as attractive areas for human activity due to:
+    - Access to fresh water
+    - Fertile land for farming
+    - Transportation advantages
+    - Flat land for construction
+  - Classification by flood frequency aids in zoning for infrastructure:
+    - Hospitals and evacuation centers: No flood risk
+    - Homes: Low flood risk
+    - Agriculture, recreation: Higher flood risk
+  - **100-Year Floodplain**: 1% annual probability, does not guarantee time intervals between floods
+
+- **Meteorological Causes of Floods**:
+  - **Atmospheric Rivers**: Long, narrow bands of moist air transporting water vapor
+    - Example: "Pineapple Express" from Hawaii
+    - Can bring significant rainfall, causing flooding and landslides
+  - **Flash Floods**: Sudden and intense rainfall over short duration
+    - E.g., Boulder, Colorado flood (September 2013) with 9 inches of rain
+
+- **Safety Concerns**:
+  - Flash floods frequently result in fatalities (e.g., people attempting to drive through flooded roads)
+  - Recommendation against camping in narrow canyons or dry stream beds during periods of potential flooding
+
+- **Special Types of Floods**:
+  - **Rain on Snow Floods**: Heavy rain on snowpack can lead to significant surface runoff
+  - **Ice Jams**: Accumulation of ice causing flooding upstream and downstream
+    - Major cause of flooding along Canadian rivers
+
+- **Non-Hydrometeorological Floods**:
+  - Landslide deposits can block rivers (e.g., Atabad Lake, Pakistan)
+  - Volcanic materials and glaciers can create natural dams leading to catastrophic outburst floods (e.g., Jökullalps in Iceland)
+
+- **Case Studies and Examples**:
+  - Ice jams in New York and New Brunswick
+  - Jökullalps triggered by sub-glacial volcanic eruptions in Iceland
+
+This completes the lecture notes summarization.
